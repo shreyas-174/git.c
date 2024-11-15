@@ -1,4 +1,8 @@
 new demo
 added new
 learning git merge
+<<<<<<< HEAD
 new learning
+=======
+banglore
+>>>>>>> demo
